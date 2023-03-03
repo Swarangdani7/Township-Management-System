@@ -1,0 +1,4 @@
+O1000,Sampath,Kumar,YUIOH7423N,9087655422,samp12@gmail.com,2
+O1001,Ananay,Mahajan,ASDFH9542K,8907654325,d@gmail.com,1
+O1002,Raj,Kumar,ASDFG4555L,7894563214,raj@gmail.com,1
+O1003,Raj,Sharma,HJKLO7896P,1236547898,raj@yahoo.com,1

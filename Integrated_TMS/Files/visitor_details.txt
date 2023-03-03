@@ -1,0 +1,7 @@
+ABCDE1234P,Hari,Puttar,harry@gmail.com,1234567890
+ABCDE1234Q,Ronesh,Weasley,ron@gmail.com,1234567890
+ABCDE1234R,Hermione,Granger,hermione@gmail.com,1234567890
+ABCDE1234S,Draco,Malfoy,draco@gmail.com,1234567890
+ABCDE1234T,Severus,Snape,snape@gmail.com,1234567890
+ASDER1235I,sham,shran,sham@mail.com,9874563215
+QWERT7896K,mahesh,kumar,mahesh@mail.com,4799651235

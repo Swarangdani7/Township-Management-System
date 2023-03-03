@@ -1,0 +1,3 @@
+T1000,Sampath,Kumars,KHSPK6949D,9948971770,sam@gmail.com,H101,Row
+T1001,Swarang,Dani,MNBVC7416O,8574632109,dani@gmail.com,H103,Flat
+T1003,Ram,Sharma,ASDFG1234L,9874561230,ram@gmail.com,H102,Flat
